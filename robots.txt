@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ijetaaji.github.io/ICb/sitemap_index.txt
+Sitemap: https://ijetaaji.github.io/bef/sitemap_index.txt
+Sitemap: https://ijetaaji.github.io/hEi/sitemap_index.txt
+Sitemap: https://ijetaaji.github.io/oeh/sitemap_index.txt
